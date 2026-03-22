@@ -203,18 +203,6 @@ The system will fail (by design) if:
 
 ---
 
-## Security Considerations
-
-This system:
-
-* ✔ Guarantees **data integrity**
-* ✔ Ensures **exact reconstruction**
-
-This system does NOT:
-
-* ❌ Encrypt data
-* ❌ Protect confidentiality
-* ❌ Prevent reverse engineering
 
 For secure usage:
 
@@ -257,25 +245,30 @@ This implementation prioritizes:
 It is intentionally designed as a **low-level, transparent system**, making every transformation traceable and verifiable.
 @penglertaha  22-03-2026 1:03PM
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 
 #Français
 # Système d’Encodage de Fichiers en Vidéo (Lossless)
@@ -479,19 +472,6 @@ Le système échoue si :
 * altération d’un seul octet (checksum)
 
 ---
-
-## Sécurité
-
-Ce système :
-
-* ✔ garantit l’intégrité
-* ✔ garantit la reconstruction exacte
-
-Ce système ne :
-
-* ❌ chiffre pas
-* ❌ ne protège pas les données
-* ❌ n’empêche pas l’analyse
 
 Pour sécuriser :
 
